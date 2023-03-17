@@ -1,2 +1,3 @@
-# Automate-Whatsapp-Using-Django-and-Selenium
-This code allows the user to open WhatsApp Web and send a document to a specific person. It is important to note that as WhatsApp updates its website from time to time, the Xpath used in this code may need to be updated in case of errors.  
+This code allows users to automate the process of sending documents to their contacts on WhatsApp Web. By using this code, users can open WhatsApp Web and send a document to a specific person. It is important to note that the Xpath used in this code may need to be updated in case of errors, as WhatsApp updates its website from time to time. Additionally, make sure that the Chrome Driver is installed on your system before running this code.
+
+Overall, this code is designed to save time and effort for users who frequently send documents on WhatsApp. It provides a convenient and efficient way to automate this process and streamline document handling on the platform.
